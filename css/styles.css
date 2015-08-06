@@ -1,0 +1,126 @@
+#version {
+	color : red;
+	font-size : 12px;
+        text-align:middle
+	}
+	
+#rblogo {
+	float:left;
+	padding-right:2px;
+	padding-top:4px;
+}
+
+#sweg {
+	verticle-align: middle;
+	padding-top: 18px;
+    
+}
+.field {
+	color: white;
+	margin: 10px 10px;
+	background: transparent;
+
+}
+#lbutton {
+	color: White;
+	background-color : transparent;
+	border-style:none;
+}
+#linkz {
+	color: black;
+}
+#textbox {
+	color : white;
+	background: transparent;
+	border: dotted;
+}
+
+a {
+
+	color: white;
+}
+
+a:hover {
+
+	color:#777;
+}
+
+body {
+	background-color:;
+ 	background-image:url('../tile.jpg') !important;
+ }
+.jumbotron {
+ 	text-align:center;
+ 	background-color: white;
+ 	opacity:0.7;
+	color:black;
+	margin-top:10%;
+		margin-left:6%;
+		margin-right:6%;
+	 border-radius: 8px;
+	     text-shadow: 4px 4px 6px rgba(0,0,0,0.6);
+box-shadow: 6px 6px 5px rgba(0,0,0,0.6);
+	}
+.tab-content {
+	background-color:transparent;
+
+}
+.tab-pane{
+	background-color: transparent;
+}
+.nav-pills{
+	background-color: transparent;
+}
+.menu{
+	margin-left: 6%;
+		margin-right: 6%;
+}
+#guru {
+	verticl-align: middle;
+}
+
+#challengetxt{
+	color:white;
+}
+.challenge{
+	padding-top:8%;
+	padding-bottom:8%;
+	margin:4% 0%;
+
+}
+.container-homies{
+	background-color: transparent;
+	margin:10% 0%;
+}
+.homies{
+	 background-color: #ffffff;
+    opacity: 0.7;
+	padding:2% 2%; 
+	margin:5% 5%;
+}
+.homies img{	padding:4px 4px;
+        width:17%;
+        height:17%;
+        border-radius: 80%;
+        background-color:white;
+        margin:4px 4px;
+    }
+
+
+
+.pp_n {
+	padding:4px 4px;
+        width:17%;
+        height:17%;
+        border-radius: 80%;
+        background-color:white;
+        margin:4px 4px;
+}
+#usercomment{
+display:block;
+	margin:4% 0%;
+}
+#username{
+display:block;
+	margin:4% 0%;
+}
